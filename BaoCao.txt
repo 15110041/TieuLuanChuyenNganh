@@ -1,0 +1,3 @@
+﻿1.Chuẩn bị tập training và tập test
+2.Giới thiệu về các thành phần chính là semi supervised và deep learning trong file word báo cáo
+3.Giải thích được nguồn gốc và chức năng cơ bản của semi supervised deep learning
